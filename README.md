@@ -1,7 +1,7 @@
 # Calculator-design
 
 ![](./img/logo.jpg)
-It`s a user login form design project.
+Calculator design with html and css
 
 ## Table of contents
 
@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/img/11.jpg)
+![](https://github.com/gilda-prv/Calculator-design/blob/main/FireShot%20Capture%20002%20-%20Document%20-%20127.0.0.1.png)
 
 ### Built with
 
